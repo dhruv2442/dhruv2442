@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://octodex.github.com/images/NUX_Octodex.gif" width="100" height="100" alt="Image" />
+![image](https://github.com/dhruv2442/dhruv2442/blob/main/Vanilla-1s-281px.gif)
 
 # 💫 About Me:
 I'm currently working As Project Trainee at PMC Retail.<br>I'm full/MEAN/MERN stack developer.<br>I'm currently learning Web Scraping.
