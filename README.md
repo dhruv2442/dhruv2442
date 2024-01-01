@@ -3,7 +3,15 @@
 ![image](https://github.com/dhruv2442/dhruv2442/blob/main/Vanilla-1s-281px.gif)
 
 # 💫 About Me:
-I'm currently working As Project Trainee at PMC Retail.<br>I'm full/MEAN/MERN stack developer.<br>I'm currently learning Web Scraping.
+
+* **Saviom Software (September 2023 - Present):** Developing and maintaining software applications. Learning best practices from experienced developers.
+
+* **PMC Retail (July 2022 - April 2023):** 10-month internship building web apps and e-commerce platforms using Javascript and Node.js.
+
+* **HackFest IIT(ISM) Dhanbad (April 2021 - May 2022):** Campus Ambassador, promoting and organizing the hackathon event.
+
+* **Collegedunia (January 2021 - May 2022):** Campus Ambassador, raising awareness and engaging students
+
 
 
 ## 🌐 Socials:
